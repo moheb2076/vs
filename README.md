@@ -16,12 +16,15 @@
 
 * * *
 
+<b> لازم به زدن هیچ دستوری نیسته </b>
+</br>
+
 # Installation
 
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/djkamran021/BY.git
+git clone https://github.com/storevpsnet/SV.git
 cd SV
 chmod 777 start.sh
 ./start.sh install
