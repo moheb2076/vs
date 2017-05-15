@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/BY
+cd $HOME/SV
 
 install() {
 	    cd libs
