@@ -22,13 +22,14 @@
 # Let's install the bot.
 cd $HOME
 git clone https://github.com/djkamran021/BY.git
-cd BY
+cd SV
 chmod 777 start.sh
 ./start.sh install
 ./start.sh 
 # Enter a phone number & confirmation code.
 
 # For Auto Launch:
+cd SV
 chmod 777 auto.sh
 screen ./auto.sh
 ```
